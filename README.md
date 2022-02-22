@@ -1,2 +1,2 @@
 # ANN_Implementation
-I have mnist inbuilt dataset for this implementation 
+I have used mnist dataset for this implementation 
